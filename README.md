@@ -1,4 +1,5 @@
-# Drowsiness_Detection.py
+# Drowsiness Detection
+
 This code can detect your eyes and alert when the user is drowsy.
 ## Requirements
 scipy
